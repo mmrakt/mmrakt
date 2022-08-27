@@ -1,16 +1,69 @@
-### Hi there 👋
+# 職務経歴書
 
-<!--
-**mmrakt/mmrakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 基本情報
 
-Here are some ideas to get you started:
+|key|value|
+|---|-----|
+|Name|三村 彰人 (Mimura Akito)|
+|Blog|[mimu-memo](https://mimu-memo.com)|
+|Twitter|[@foobar](https://twitter.com/mmrakt0716)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## スキル
+### 言語
+- Ruby
+- PHP
+- Java
+- などなど
+
+### フレームワーク
+
+- Ruby on Rails
+- Laravel
+- Spring Boot
+- などなど
+
+### その他
+
+- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+
+## 言語
+
+- 日本語
+  - ネイティブ
+- 英語
+  - かんたんな日常会話ができる
+  - TOEIC: xxx点
+
+## 強み
+
+## やったことはないが興味があるもの
+
+## 職務経歴
+
+### yyyy/mm - 現在 : 会社名
+
+職務: Webアプリケーションエンジニア（例）
+
+#### 職務内容の名前（レストラン検索とか）
+
+- 職務内容の詳細を箇条書きでかく
+
+### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+
+職務: サーバーサイドエンジニア
+
+#### 職務内容の名前（レストラン検索とか）
+
+- 職務内容の詳細を箇条書きでかく
+
+## 課外活動
+
+### 社外プロジェクト
+* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
+* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+
+### 過去の登壇資料
+* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+
+### 受賞歴
+* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
