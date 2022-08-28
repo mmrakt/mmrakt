@@ -6,7 +6,8 @@
 |---|-----|
 |Name|三村 彰人 (Mimura Akito)|
 |Blog|[mimu-memo](https://mimu-memo.com)|
-|Twitter|[@foobar](https://twitter.com/mmrakt0716)|
+|Twitter|[@mmrakt0716](https://twitter.com/mmrakt0716)|
+|Facebook|[三村 彰人](https://www.facebook.com/akito.mimura.5)|
 
 ## 職務経歴
 
